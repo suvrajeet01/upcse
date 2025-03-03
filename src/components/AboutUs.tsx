@@ -4,7 +4,7 @@ const AboutUs: React.FC = () => {
   return (
     <div id="about" className="bg-white p-8 rounded-lg shadow-md">
       <h2 className="text-3xl font-bold mb-6 text-blue-800">About Us</h2>
-      <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
+      <div className="flex flex-col items-center gap-6">
         <div className="w-48 h-64 overflow-hidden flex-shrink-0 border-4 border-yellow-600 shadow-lg">
           <img 
             src="https://i.ibb.co/Q7dCRJCQ/about-us.jpg" 
@@ -12,18 +12,11 @@ const AboutUs: React.FC = () => {
             className="w-full h-full object-cover"
           />
         </div>
-        <div>
-          <blockquote className="italic text-gray-700 border-l-4 border-blue-800 pl-4">
-            <p className="text-lg">
-              UPCSE is working since 2017 in over all Uttar Pradesh to develop sports at grassroot level UPCSE.
-            </p>
-          </blockquote>
-          <div className="mt-4 p-3 bg-orange-100 border-l-4 border-orange-600 text-orange-800 font-semibold">
-            <p>
-              Uttar Pradesh Council for Sports & Education - Promoting sports and education at the grassroots level since 2017.
-            </p>
-          </div>
-        </div>
+        <blockquote className="italic text-gray-700 border-l-4 border-blue-800 pl-4 max-w-md">
+          <p className="text-lg text-center">
+            UPCSE is working since 2017 in over all Uttar Pradesh to promote sports & education at grassroot level.
+          </p>
+        </blockquote>
       </div>
     </div>
   );
