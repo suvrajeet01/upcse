@@ -8,31 +8,79 @@ const Gallery: React.FC = () => {
     {
       id: 1,
       title: "Pankaj Pandey appointed as Organization Secretary",
-      imageUrl: "https://github.com/suvrajeet01/upcse/src/components/images/1 (1).jpeg",
+      imageUrl: "https://i.ibb.co/yFd9Q7cr/1-1.jpg",
       description: "Pankaj Pandey has been appointed as the Organization Secretary of Uttar Pradesh Sports Council."
     },
     {
       id: 2,
       title: "UP Sports Council Organization Secretary",
-      imageUrl: "https://github.com/suvrajeet01/upcse/src/components/images/1 (2).jpeg",
+      imageUrl: "https://i.ibb.co/JjhG0N0w/1-2.jpg",
       description: "Pankaj Pandey becomes the Organization Secretary of UP Sports Council."
     },
     {
       id: 3,
       title: "UP Sports Council Secretary Appointment",
-      imageUrl: "https://github.com/suvrajeet01/upcse/src/components/images/1 (3).jpeg",
+      imageUrl: "https://i.ibb.co/QvGNx7wD/1-3.jpg",
       description: "Pankaj Pandey appointed as the Organization Secretary of UP Sports Council."
     },
     {
       id: 4,
       title: "JRF Success Story",
-      imageUrl: "https://github.com/suvrajeet01/upcse/src/components/images/1 (4).jpeg",
+      imageUrl: "https://i.ibb.co/wrLBxwgV/1-4.jpg",
       description: "Success story of a student clearing JRF examination."
     },
     {
       id: 5,
       title: "Gold Medal Winners Honored",
-      imageUrl: "https://github.com/suvrajeet01/upcse/src/components/images/1 (5).jpeg",
+      imageUrl: "https://i.ibb.co/gbKb3nN1/1-5.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 6,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/VcJ4bhN2/1-6.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 7,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/2197sGBJ/1-7.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 8,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/8DGwvJTr/1-8.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 9,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/gLW7b878/1-9.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 10,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/7tPzbx0Z/1-10.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 11,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/TBv7y7wL/1-11.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 12,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/S4Z8Nzk9/1-12.jpg",
+      description: "Students who won gold medals in the National Championship being honored."
+    },
+    {
+      id: 13,
+      title: "Gold Medal Winners Honored",
+      imageUrl: "https://i.ibb.co/ch41KNhS/1-13.jpg",
       description: "Students who won gold medals in the National Championship being honored."
     }
   ];

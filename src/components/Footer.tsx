@@ -14,7 +14,9 @@ const Footer: React.FC = () => {
               <h3 className="text-xl font-bold ml-2">UPCSE</h3>
             </div>
             <p className="text-blue-200 mb-4">
-              Uttar Pradesh Council for Sports & Education - Promoting sports and education at the grassroots level since 2017.
+              Uttar Pradesh Council for Sports & Education
+              <p className="text-blue-200 mb-4">Promoting sports and education at the grassroots level since 2017. 
+              </p>               
             </p>
           </div>
           
@@ -35,11 +37,11 @@ const Footer: React.FC = () => {
             <ul className="space-y-2">
               <li className="flex items-center">
                 <MapPin size={18} className="mr-2 text-blue-300" />
-                <span className="text-blue-200">Uttar Pradesh, India</span>
+                <span className="text-blue-200">733/C, Bicchiya Sarvodaya Nagar, Near PAC Camp, Gorakhpur,Uttar Pradesh, India - 273014. </span>
               </li>
               <li className="flex items-center">
                 <Phone size={18} className="mr-2 text-blue-300" />
-                <span className="text-blue-200">+91 XXXXX XXXXX</span>
+                <span className="text-blue-200">+91 8418807808</span>
               </li>
               <li className="flex items-center">
                 <Mail size={18} className="mr-2 text-blue-300" />
