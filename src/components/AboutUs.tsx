@@ -7,7 +7,7 @@ const AboutUs: React.FC = () => {
       <div className="flex flex-col md:flex-row items-center md:items-start gap-6">
         <div className="w-48 h-64 overflow-hidden flex-shrink-0 border-4 border-yellow-600 shadow-lg">
           <img 
-            src="https://images.unsplash.com/photo-1526676037777-05a232554d77?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" 
+            src="https://i.ibb.co/Q7dCRJCQ/about-us.jpg" 
             alt="UPCSE Team" 
             className="w-full h-full object-cover"
           />
